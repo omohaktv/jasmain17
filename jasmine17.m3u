@@ -1,1 +1,325 @@
 #EXTINF:-1,====== UK ======
+#EXTINF:-1 group-title="ENGLISH TV",|UK| ITV 1 HD
+http://red.ipfox.org:8080/1234/12345678/24237
+#EXTINF:-1 group-title="ENGLISH TV",|UK| ITV 2 HD
+http://red.ipfox.org:8080/1234/12345678/24239
+#EXTINF:-1 group-title="ENGLISH TV",|UK| ITV 3 HD
+http://red.ipfox.org:8080/1234/12345678/24241
+#EXTINF:-1 group-title="ENGLISH TV",|UK| ITV 4 HD
+http://red.ipfox.org:8080/1234/12345678/24243
+#EXTINF:-1 group-title="ENGLISH TV",|UK| ITV BE
+http://red.ipfox.org:8080/1234/12345678/26049
+#EXTINF:-1 group-title="ENGLISH TV",|UK| ITV London
+http://red.ipfox.org:8080/1234/12345678/24235
+#EXTINF:-1 group-title="ENGLISH TV",|UK| SKY Cinema Premiere
+http://red.ipfox.org:8080/1234/12345678/24200
+#EXTINF:-1 group-title="ENGLISH TV",|UK| SKY Cinema Action
+http://red.ipfox.org:8080/1234/12345678/24203
+#EXTINF:-1 group-title="ENGLISH TV",|UK| SKY Cinema Thriller
+http://red.ipfox.org:8080/1234/12345678/24205
+#EXTINF:-1 group-title="ENGLISH TV",|UK| SKY Cinema Greats
+http://red.ipfox.org:8080/1234/12345678/24207
+#EXTINF:-1 group-title="ENGLISH TV",|UK| SKY Cinema Drama
+http://red.ipfox.org:8080/1234/12345678/24209
+#EXTINF:-1 group-title="ENGLISH TV",|UK| SKY Cinema Hits
+http://red.ipfox.org:8080/1234/12345678/24211
+#EXTINF:-1 group-title="ENGLISH TV",|UK| SKY Cinema Horror
+http://red.ipfox.org:8080/1234/12345678/24215
+#EXTINF:-1 group-title="ENGLISH TV",|UK| SKY Cinema Comedy
+http://red.ipfox.org:8080/1234/12345678/24217
+#EXTINF:-1 group-title="ENGLISH TV",|UK| SKY Cinema Disney
+http://red.ipfox.org:8080/1234/12345678/24219
+#EXTINF:-1 group-title="ENGLISH TV",|UK| SKY Cinema Family
+http://red.ipfox.org:8080/1234/12345678/24221
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Boxnation HD
+http://red.ipfox.org:8080/1234/12345678/24189
+#EXTINF:-1 group-title="ENGLISH TV",|UK| eir Sports 2 HD
+http://red.ipfox.org:8080/1234/12345678/24182
+#EXTINF:-1 group-title="ENGLISH TV",|UK| eir Sports 1 HD
+http://red.ipfox.org:8080/1234/12345678/24184
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Euro Sport 1
+http://red.ipfox.org:8080/1234/12345678/24185
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Euro Sport 2
+http://red.ipfox.org:8080/1234/12345678/24186
+#EXTINF:-1 group-title="ENGLISH TV",|UK| BT EXTRA 1
+http://red.ipfox.org:8080/1234/12345678/25963
+#EXTINF:-1 group-title="ENGLISH TV",|UK| BT EXTRA 2
+http://red.ipfox.org:8080/1234/12345678/25962
+#EXTINF:-1 group-title="ENGLISH TV",|UK| BT EXTRA 3
+http://red.ipfox.org:8080/1234/12345678/25961
+#EXTINF:-1 group-title="ENGLISH TV",|UK| BT EXTRA 4
+http://red.ipfox.org:8080/1234/12345678/25960
+#EXTINF:-1 group-title="ENGLISH TV",|UK| BT EXTRA 5
+http://red.ipfox.org:8080/1234/12345678/25959
+#EXTINF:-1 group-title="ENGLISH TV",|UK| BT EXTRA 6
+http://red.ipfox.org:8080/1234/12345678/25958
+#EXTINF:-1 group-title="ENGLISH TV",|UK| BT Sport 1 HD
+http://red.ipfox.org:8080/1234/12345678/24169
+#EXTINF:-1 group-title="ENGLISH TV",|UK| BT Sport 2 HD
+http://red.ipfox.org:8080/1234/12345678/24171
+#EXTINF:-1 group-title="ENGLISH TV",|UK| BT Sport 3 HD
+http://red.ipfox.org:8080/1234/12345678/24173
+#EXTINF:-1 group-title="ENGLISH TV",|UK| BT Sport ESPN
+http://red.ipfox.org:8080/1234/12345678/24175
+#EXTINF:-1 group-title="ENGLISH TV",|UK| SKY Sports News
+http://red.ipfox.org:8080/1234/12345678/24147
+#EXTINF:-1 group-title="ENGLISH TV",|UK| SKY Sports Main Event
+http://red.ipfox.org:8080/1234/12345678/24149
+#EXTINF:-1 group-title="ENGLISH TV",|UK| SKY Sports Football
+http://red.ipfox.org:8080/1234/12345678/24151
+#EXTINF:-1 group-title="ENGLISH TV",|UK| SKY Sports Premier League
+http://red.ipfox.org:8080/1234/12345678/24153
+#EXTINF:-1 group-title="ENGLISH TV",|UK| SKY Sports Mix
+http://red.ipfox.org:8080/1234/12345678/24156
+#EXTINF:-1 group-title="ENGLISH TV",|UK| SKY Sports Arena
+http://red.ipfox.org:8080/1234/12345678/24157
+#EXTINF:-1 group-title="ENGLISH TV",|UK| SKY Sports NFL
+http://red.ipfox.org:8080/1234/12345678/24159
+#EXTINF:-1 group-title="ENGLISH TV",|UK| SKY Sports Golf
+http://red.ipfox.org:8080/1234/12345678/24161
+#EXTINF:-1 group-title="ENGLISH TV",|UK| SKY Sports Cricket
+http://red.ipfox.org:8080/1234/12345678/24163
+#EXTINF:-1 group-title="ENGLISH TV",|UK| SKY Sports F1
+http://red.ipfox.org:8080/1234/12345678/24165
+#EXTINF:-1 group-title="ENGLISH TV",|UK| SKY Sports Racing
+http://red.ipfox.org:8080/1234/12345678/24167
+#EXTINF:-1 group-title="ENGLISH TV",|UK| RT AMERICA
+http://red.ipfox.org:8080/1234/12345678/26046
+#EXTINF:-1 group-title="ENGLISH TV",|UK| SKY News
+http://red.ipfox.org:8080/1234/12345678/26042
+#EXTINF:-1 group-title="ENGLISH TV",|UK| FRANCE 24
+http://red.ipfox.org:8080/1234/12345678/26047
+#EXTINF:-1 group-title="ENGLISH TV",|UK| BBC WORLD NEWS
+http://red.ipfox.org:8080/1234/12345678/26048
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Food Network
+http://red.ipfox.org:8080/1234/12345678/26041
+#EXTINF:-1 group-title="ENGLISH TV",|UK| BBC Alba
+http://red.ipfox.org:8080/1234/12345678/26039
+#EXTINF:-1 group-title="ENGLISH TV",|UK| BBC Scotland
+http://red.ipfox.org:8080/1234/12345678/26038
+#EXTINF:-1 group-title="ENGLISH TV",|UK| TG4 HD
+http://red.ipfox.org:8080/1234/12345678/26034
+#EXTINF:-1 group-title="ENGLISH TV",|UK| S4C HD
+http://red.ipfox.org:8080/1234/12345678/26033
+#EXTINF:-1 group-title="ENGLISH TV",|UK| STV
+http://red.ipfox.org:8080/1234/12345678/26028
+#EXTINF:-1 group-title="ENGLISH TV",|UK| UTV
+http://red.ipfox.org:8080/1234/12345678/26027
+#EXTINF:-1 group-title="ENGLISH TV",|UK| SKY 2 HD
+http://red.ipfox.org:8080/1234/12345678/26025
+#EXTINF:-1 group-title="ENGLISH TV",|UK| 5 Select
+http://red.ipfox.org:8080/1234/12345678/26024
+#EXTINF:-1 group-title="ENGLISH TV",|UK| 5 Star
+http://red.ipfox.org:8080/1234/12345678/26023
+#EXTINF:-1 group-title="ENGLISH TV",|UK| 5 USA
+http://red.ipfox.org:8080/1234/12345678/26022
+#EXTINF:-1 group-title="ENGLISH TV",|UK| BET HD
+http://red.ipfox.org:8080/1234/12345678/26021
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Blaze HD
+http://red.ipfox.org:8080/1234/12345678/26020
+#EXTINF:-1 group-title="ENGLISH TV",|UK| CBS Justice
+http://red.ipfox.org:8080/1234/12345678/26019
+#EXTINF:-1 group-title="ENGLISH TV",|UK| CBS Drama
+http://red.ipfox.org:8080/1234/12345678/26018
+#EXTINF:-1 group-title="ENGLISH TV",|UK| CBS Reality
+http://red.ipfox.org:8080/1234/12345678/26017
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Challenge
+http://red.ipfox.org:8080/1234/12345678/26016
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Dmax HD
+http://red.ipfox.org:8080/1234/12345678/26015
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Drama HD
+http://red.ipfox.org:8080/1234/12345678/26014
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Gold HD
+http://red.ipfox.org:8080/1234/12345678/26013
+#EXTINF:-1 group-title="ENGLISH TV",|UK| More 4
+http://red.ipfox.org:8080/1234/12345678/26012
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Sony Action
+http://red.ipfox.org:8080/1234/12345678/26011
+#EXTINF:-1 group-title="ENGLISH TV",|UK| PBS America
+http://red.ipfox.org:8080/1234/12345678/26010
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Quest Red
+http://red.ipfox.org:8080/1234/12345678/26009
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Real Lives
+http://red.ipfox.org:8080/1234/12345678/26008
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Really HD
+http://red.ipfox.org:8080/1234/12345678/26007
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Sony Movies
+http://red.ipfox.org:8080/1234/12345678/26006
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Sony Movies Classic
+http://red.ipfox.org:8080/1234/12345678/26005
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Yesterday
+http://red.ipfox.org:8080/1234/12345678/26003
+#EXTINF:-1 group-title="ENGLISH TV",|UK| SKY Arts
+http://red.ipfox.org:8080/1234/12345678/26002
+#EXTINF:-1 group-title="ENGLISH TV",|UK| SKY Witness
+http://red.ipfox.org:8080/1234/12345678/26001
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Comedy Central Extra
+http://red.ipfox.org:8080/1234/12345678/26000
+#EXTINF:-1 group-title="ENGLISH TV",|UK| E! Entertainment
+http://red.ipfox.org:8080/1234/12345678/25999
+#EXTINF:-1 group-title="ENGLISH TV",|UK| SKY Cinema Animation
+http://red.ipfox.org:8080/1234/12345678/25997
+#EXTINF:-1 group-title="ENGLISH TV",|UK| AMC HD
+http://red.ipfox.org:8080/1234/12345678/25996
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Box Hits
+http://red.ipfox.org:8080/1234/12345678/25995
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Club Land
+http://red.ipfox.org:8080/1234/12345678/25993
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Kerrang TV
+http://red.ipfox.org:8080/1234/12345678/25992
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Kiss TV
+http://red.ipfox.org:8080/1234/12345678/25991
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Magic HD
+http://red.ipfox.org:8080/1234/12345678/25990
+#EXTINF:-1 group-title="ENGLISH TV",|UK| POP
+http://red.ipfox.org:8080/1234/12345678/25989
+#EXTINF:-1 group-title="ENGLISH TV",|UK| POP Max
+http://red.ipfox.org:8080/1234/12345678/25988
+#EXTINF:-1 group-title="ENGLISH TV",|UK| The Vault
+http://red.ipfox.org:8080/1234/12345678/25987
+#EXTINF:-1 group-title="ENGLISH TV",|UK| VH1
+http://red.ipfox.org:8080/1234/12345678/25986
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Vice Land
+http://red.ipfox.org:8080/1234/12345678/25985
+#EXTINF:-1 group-title="ENGLISH TV",|UK| The Box
+http://red.ipfox.org:8080/1234/12345678/25984
+#EXTINF:-1 group-title="ENGLISH TV",|UK| 4 Music
+http://red.ipfox.org:8080/1234/12345678/25983
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Love Nature
+http://red.ipfox.org:8080/1234/12345678/25982
+#EXTINF:-1 group-title="ENGLISH TV",|UK| SKY Nature
+http://red.ipfox.org:8080/1234/12345678/25981
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Discovery History
+http://red.ipfox.org:8080/1234/12345678/25980
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Discovery H&H
+http://red.ipfox.org:8080/1234/12345678/25979
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Discovery Science
+http://red.ipfox.org:8080/1234/12345678/25978
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Discovery Shed
+http://red.ipfox.org:8080/1234/12345678/25977
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Discovery Turbo
+http://red.ipfox.org:8080/1234/12345678/25976
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Crime Investigation
+http://red.ipfox.org:8080/1234/12345678/25974
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Forces TV
+http://red.ipfox.org:8080/1234/12345678/25973
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Paramount HD
+http://red.ipfox.org:8080/1234/12345678/25972
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Showcase HD
+http://red.ipfox.org:8080/1234/12345678/25971
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Free Sports
+http://red.ipfox.org:8080/1234/12345678/25970
+#EXTINF:-1 group-title="ENGLISH TV",|UK| LFC
+http://red.ipfox.org:8080/1234/12345678/25969
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Premier Sports 1
+http://red.ipfox.org:8080/1234/12345678/25968
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Premier Sports 2
+http://red.ipfox.org:8080/1234/12345678/25967
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Racing HD
+http://red.ipfox.org:8080/1234/12345678/25966
+#EXTINF:-1 group-title="ENGLISH TV",|UK| MU TV
+http://red.ipfox.org:8080/1234/12345678/25965
+#EXTINF:-1 group-title="ENGLISH TV",|UK| RTE ONE
+http://red.ipfox.org:8080/1234/12345678/25573
+#EXTINF:-1 group-title="ENGLISH TV",|UK| RTE TWO
+http://red.ipfox.org:8080/1234/12345678/25572
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Baby TV
+http://red.ipfox.org:8080/1234/12345678/25570
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Bloomberg News
+http://red.ipfox.org:8080/1234/12345678/25565
+#EXTINF:-1 group-title="ENGLISH TV",|UK| MTV Live
+http://red.ipfox.org:8080/1234/12345678/25562
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Sony Entertainment
+http://red.ipfox.org:8080/1234/12345678/25560
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Universal HD
+http://red.ipfox.org:8080/1234/12345678/25559
+#EXTINF:-1 group-title="ENGLISH TV",|UK| TCM HD
+http://red.ipfox.org:8080/1234/12345678/24222
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Film 4 HD
+http://red.ipfox.org:8080/1234/12345678/24223
+#EXTINF:-1 group-title="ENGLISH TV",|UK| BBC One HD
+http://red.ipfox.org:8080/1234/12345678/24230
+#EXTINF:-1 group-title="ENGLISH TV",|UK| BBC Two HD
+http://red.ipfox.org:8080/1234/12345678/24232
+#EXTINF:-1 group-title="ENGLISH TV",|UK| BBC Four HD
+http://red.ipfox.org:8080/1234/12345678/24234
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Channel 4
+http://red.ipfox.org:8080/1234/12345678/24248
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Channel 5
+http://red.ipfox.org:8080/1234/12345678/24250
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Sky Atlantic
+http://red.ipfox.org:8080/1234/12345678/24255
+#EXTINF:-1 group-title="ENGLISH TV",|UK| SYFY HD
+http://red.ipfox.org:8080/1234/12345678/24262
+#EXTINF:-1 group-title="ENGLISH TV",|UK| FOX HD
+http://red.ipfox.org:8080/1234/12345678/24267
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Comedy Central
+http://red.ipfox.org:8080/1234/12345678/24268
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Dave HD
+http://red.ipfox.org:8080/1234/12345678/24278
+#EXTINF:-1 group-title="ENGLISH TV",|UK| 4 Seven
+http://red.ipfox.org:8080/1234/12345678/24286
+#EXTINF:-1 group-title="ENGLISH TV",|UK| E4 HD
+http://red.ipfox.org:8080/1234/12345678/24289
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Alibi HD
+http://red.ipfox.org:8080/1234/12345678/24291
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Sony Crime
+http://red.ipfox.org:8080/1234/12345678/24304
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Lifetime HD
+http://red.ipfox.org:8080/1234/12345678/24305
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Pick TV
+http://red.ipfox.org:8080/1234/12345678/24311
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Discovery HD
+http://red.ipfox.org:8080/1234/12345678/24315
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Animal Planet HD
+http://red.ipfox.org:8080/1234/12345678/24324
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Nat Geo HD
+http://red.ipfox.org:8080/1234/12345678/24326
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Nat Geo Wild
+http://red.ipfox.org:8080/1234/12345678/24328
+#EXTINF:-1 group-title="ENGLISH TV",|UK| History 1 HD
+http://red.ipfox.org:8080/1234/12345678/24330
+#EXTINF:-1 group-title="ENGLISH TV",|UK| History 2 HD
+http://red.ipfox.org:8080/1234/12345678/24332
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Eden HD
+http://red.ipfox.org:8080/1234/12345678/24333
+#EXTINF:-1 group-title="ENGLISH TV",|UK| TLC HD
+http://red.ipfox.org:8080/1234/12345678/24337
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Quest HD
+http://red.ipfox.org:8080/1234/12345678/24339
+#EXTINF:-1 group-title="ENGLISH TV",|UK| MTV HD
+http://red.ipfox.org:8080/1234/12345678/24343
+#EXTINF:-1 group-title="ENGLISH TV",|UK| SKY 1 HD
+http://red.ipfox.org:8080/1234/12345678/24344
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Cartoon Network
+http://red.ipfox.org:8080/1234/12345678/24348
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Cartoonito
+http://red.ipfox.org:8080/1234/12345678/24349
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Boomerang
+http://red.ipfox.org:8080/1234/12345678/24350
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Nickelodeon
+http://red.ipfox.org:8080/1234/12345678/24352
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Nick Jr.
+http://red.ipfox.org:8080/1234/12345678/24354
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Nicktoons
+http://red.ipfox.org:8080/1234/12345678/24356
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Disney Channel
+http://red.ipfox.org:8080/1234/12345678/24358
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Disney Junior
+http://red.ipfox.org:8080/1234/12345678/24360
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Disney XD
+http://red.ipfox.org:8080/1234/12345678/24362
+#EXTINF:-1 group-title="ENGLISH TV",|UK| CBBC HD
+http://red.ipfox.org:8080/1234/12345678/24363
+#EXTINF:-1 group-title="ENGLISH TV",|UK| CBeebies HD
+http://red.ipfox.org:8080/1234/12345678/24364
+#EXTINF:-1 group-title="ENGLISH TV",|UK| Tiny Pop
+http://red.ipfox.org:8080/1234/12345678/24368
+#EXTINF:-1 group-title="ENGLISH TV",|UK| BBC News
+http://red.ipfox.org:8080/1234/12345678/24376
+#EXTINF:-1 group-title="ENGLISH TV",|UK| CNN HD
+http://red.ipfox.org:8080/1234/12345678/24377
+#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17683.jpg" group-title="DSTV TV",|DSTV| M-Net
+http://red.ipfox.org:8080/1234/12345678/3053
+#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/19312.jpg" group-title="DSTV TV",|DSTV| M-Net City
+http://red.ipfox.org:8080/1234/12345678/19561
